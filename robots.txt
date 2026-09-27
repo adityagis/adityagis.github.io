@@ -1,0 +1,6 @@
+# Root of adityagis.github.io. Crawlers only read robots.txt from the domain root,
+# so this file is what makes the portfolio sitemap discoverable.
+User-agent: *
+Allow: /
+
+Sitemap: https://adityagis.github.io/Portfolio/sitemap.xml
